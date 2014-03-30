@@ -1,6 +1,7 @@
 require 'opal-rspec'
 require 'browser'
 require 'opal-dagred3'
+require 'opal-mikado'
 
 module HtmlHelper
   # Add some html code to the body tag ready for testing. This will
