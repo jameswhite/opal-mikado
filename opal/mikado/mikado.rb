@@ -6,7 +6,6 @@ module Mikado
       @digraph = Dagre::Digraph.new
       @renderer = Dagre::Renderer.new
       @layout = Dagre::Layout.new
-      #@digraph.graph(rankDir: "BT", nodeSep: 10, edgeSep: 2)
     end
 
     def build_graph(nodes, edges)
