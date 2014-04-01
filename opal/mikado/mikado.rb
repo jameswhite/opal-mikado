@@ -24,8 +24,5 @@ module Mikado
       @renderer.run(@digraph, @svg)
     end
 
-    def test
-      build_graph(nodes, edges)
-    end
   end
 end
