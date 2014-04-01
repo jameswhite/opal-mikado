@@ -5,5 +5,5 @@ describe Mikado::Mikado do
     @mikado = Mikado::Mikado.new
   end
 
-
+  
 end

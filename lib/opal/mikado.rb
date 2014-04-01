@@ -1,5 +1,5 @@
 require 'opal'
-require 'opal-browser'
+require 'opal/browser'
 require 'opal-dagred3'
 require "opal/mikado/version"
 
